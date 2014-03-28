@@ -1,4 +1,4 @@
 Small HTML5/Javascript Platformer game concept
 ----------------------------------------------
 
-Made using [Phaser](phaser.io) Javascript game framework.
+Made using [Phaser](http://phaser.io) Javascript game framework.
