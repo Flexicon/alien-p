@@ -7,6 +7,7 @@ window.onload = function() {
 	game.state.add('Preloader', BasicGame.Preloader);
 	game.state.add('MainMenu', BasicGame.MainMenu);
 	game.state.add('Level1', BasicGame.Level1);
+	game.state.add('Level2', BasicGame.Level2);
 	game.state.add('LevelSelect', BasicGame.LevelSelect);
 
 	// Start from the boot state
